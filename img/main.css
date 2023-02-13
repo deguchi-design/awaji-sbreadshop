@@ -1,0 +1,192 @@
+body{
+   margin-top: 50px;
+   margin-bottom: 50px;
+ 
+}
+.shopname{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 1.2;
+    line-height: 1.2;
+}
+.shopname span{
+    font-size: 15px;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 20px;
+    letter-spacing: 1.2;
+}
+nav ul li:last-child{
+    margin-right: 0;
+}
+nav ul{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#shopname a{
+    text-decoration: none;
+}
+a:hover {
+    color: orange;
+}
+
+.mainimg{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+}
+.mainimg img{
+    width: 100%;
+}
+
+.h2style{
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 40px;
+    line-height: 1.2;
+    margin-top: 60px;
+}
+.h2style span{
+    font-size: 40px;
+    border-bottom: 1px solid #000;
+}
+
+.about h3{
+    text-align: center;
+    letter-spacing: 1.2;
+}
+.about p{
+    text-align: center;
+    margin-bottom: 40px;
+    letter-spacing: 1.2;
+    line-height: 1.4;
+
+}
+
+.menu{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+.menu ul{
+    overflow: hidden;
+    padding: 0;
+}
+.menu ul li{
+   float: left;
+    background-color:lightcyan;
+    width: 32%;
+    margin-right: 2%;
+    list-style: none;
+
+}
+.menu ul li:last-child{
+    margin-right: 0;
+}
+.menu ul li img{
+    width: 100%;
+    height: auto;
+}
+.menu ul li h3{
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 1.2;
+    line-height: 0.8;
+}
+.menu ul li p{
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 1.2;
+    
+}
+.news{
+
+    margin-top: 60px;
+}
+.news table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.news table tr td{
+    padding-left: 15px;
+}
+
+.instagrambt{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+.instagrambt a{
+    margin-top: 20px;
+  background: #000;
+    color:white;
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 4px;
+}
+.instagrambt img{
+    width: 30px;
+}
+
+.access{
+    text-align: center;
+    letter-spacing: 1.2;
+    line-height: 0.8;
+}
+
+
+.introducing p{
+    text-align: center;
+    letter-spacing: 1.2;
+    
+}
+.introducing p{
+    text-align: center;
+}
+.introducing ul{
+    width: 1000px;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.introducing img{
+    width: 120px;
+    padding-left: 100px;
+}
+
+
+.introducing ul li{
+    background-color:lightcyan;
+     /* background-image: url(test_img.jpg);    背景画像指定 */
+     /* background-size:  cover;      */
+     list-style: none;
+     margin-bottom: 20px;
+}
+.introducinghpa{
+    display: inline-block;
+    padding-left: 5%;
+ 
+   
+}
+
+.copyright p{
+    margin-top: 60px;
+  text-align: center;
+  letter-spacing: 1.2;
+  line-height: 0.8;
+}
+
+
+
+
+
